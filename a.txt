@@ -1,5 +1,1 @@
-ls 
-dark
-aaaa
-bbbbbb
-ccccccc
+began
