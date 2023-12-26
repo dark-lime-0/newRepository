@@ -1,14 +1,7 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 began
 darkstorm
 
-=======
 bullet was here
 Glish
-darkstorm
->>>>>>> bullet
-=======
-you are the best dark
-aaa
->>>>>>> 175d72485ca4545c7868899c2744548241a08cde
+the best is dark
