@@ -1,5 +1,2 @@
 began
-darkstorm
-bullet was here
-Glish
-youssef
+changes from github website
