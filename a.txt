@@ -1,6 +1,2 @@
 began
-darkstorm
-bullet was here
-Glish
-youssef
-changes from git bash
+changes from github
