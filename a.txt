@@ -1,4 +1,2 @@
 began
-darkstorm
-changes from git bash now 
-
+changes from git all
